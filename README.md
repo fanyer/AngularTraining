@@ -1,4 +1,5 @@
 # AngularTraining
+----------
 
 ` chapter2 ——MVC souce code`
 
